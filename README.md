@@ -3,7 +3,7 @@ This is a great game to train your memory using HTML CSS and JavaScript.
 
 <img width="964" alt="project image" src="Memory Game/Screenshot (468).png">
 
-# Flip the card and match the numbers until all card are matched
+Flip the card and match the numbers until all card are matched
 
 <img width="964" alt="project image" src="Memory Game/Screenshot (470).png">
 
@@ -11,7 +11,7 @@ This is a great game to train your memory using HTML CSS and JavaScript.
 <img width="964" alt="project image" src="Memory Game/Screenshot (471).png">
 
 
-<img width="964" alt="project image" src="Memory Game/Screenshot (473).png">
+<img width="964" alt="project image" src="Memory Game/Screenshot (472).png">
 
 
 
